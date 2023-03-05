@@ -1,7 +1,7 @@
 - 👋 Hi, This is @DualNature-Org
 - 👀 An Organisation for researching in the emerging domains of science and technology
 - 🌱 Our current research project is BRAIN
-- 📫 Visit on dualnature.org
+- 📫 Visit dualnature.org
 
 <!---
 DualNature-Org/DualNature-Org is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
